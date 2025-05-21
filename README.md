@@ -92,7 +92,7 @@
 - Удаление `docker-compose.yaml`, повторный запуск с `compose.yaml`  
 - Обработка предупреждения `remove-orphans`
 
-###Пояснение по `include` и `docker-compose.yaml`
+### Пояснение по `include` и `docker-compose.yaml`
 
 **Что означает предупреждение после удаления `docker-compose.yaml`:**  
 
