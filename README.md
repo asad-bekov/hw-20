@@ -11,7 +11,7 @@
 - Образ собран и залит в Docker Hub:
 
 ** Образ:**  
-![alt text](https://hub.docker.com/repository/docker/asadnet/custom-nginx/general)
+[https://hub.docker.com/r/asadnet/custom-nginx](https://hub.docker.com/repository/docker/asadnet/custom-nginx/general)
 
 **Скриншоты:**  
 - `docker build` и `docker push`
