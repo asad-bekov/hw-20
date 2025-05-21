@@ -10,7 +10,7 @@
 - Заменена страница `index.html`  
 - Образ собран и залит в Docker Hub:
 
-** Образ:**  
+**Ссылка**  
 [https://hub.docker.com/r/asadnet/custom-nginx](https://hub.docker.com/repository/docker/asadnet/custom-nginx/general)
 
 **Скриншоты:**  
